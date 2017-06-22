@@ -5,4 +5,5 @@ Learn from 面包 and 校长 , the project you can get it for Python.You can lea
 用户名 kivydev  密码 kivydev;
 用户名 root  密码 root.
 ---------------------------------------------------------------------------------------------------------------------------
-kivydev压缩包共三个，下载第一个解压即可。
+kivydev压缩包太大无法直接上传，分享如下百度云链接：
+链接：http://pan.baidu.com/s/1pKRHm8V 密码：f4u6
